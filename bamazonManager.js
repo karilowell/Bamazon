@@ -7,7 +7,7 @@ var connection = mysql.createConnection({
     // Your port; if not 3306
     port: 3306,
     // Your sql username
-    user: 'Nodeuser',
+    user: 'nodeUser',
     // Your password
     password: '',
     database: 'bamazon_db'
